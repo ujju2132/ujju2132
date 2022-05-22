@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ujjwal Kashyap (@ujju2132)
-- 👀 I’m interested in blockchain development
+- 👀 I’m interested in blockchain  allpication development
 - 🌱 I’m currently learning DSA and web dev.
-- 💞️ I’m looking to collaborate on projects that require blockain
+- 💞️ I’m looking to collaborate on projects that require blockchain
 - 📫 You can contact me at ujjwal2132@gmail.com
 
 <!---
